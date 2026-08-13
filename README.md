@@ -17,6 +17,8 @@
 | Information          | Details                           |
 | -------------------- | --------------------------------- |
 | **Name**             | **Makbel Temesgen**               |
+| **CTC ID**             | **CTC-1418-26**               |
+| **Room No**             | **R-004**               |
 | **Role**             | Software Developer & Entrepreneur |
 | **Project**          | Personal Full-Stack Portfolio     |
 | **Frontend**         | HTML, CSS, JavaScript             |
